@@ -39,19 +39,11 @@ Estudante de Sistemas de Informação | Suporte de TI | Cybersecurity
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact"/>
-
-</div>
-
-<br>
+## 📈 Histórico de contribuições
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_GITHUB" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO_GITHUB" />
 
 </div>
 
