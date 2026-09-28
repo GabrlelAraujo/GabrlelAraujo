@@ -1,16 +1,61 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Gabriel Araujo</h1>
 
-<!--
-**GabrlelAraujo/GabrlelAraujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Information Systems Student | Back-end Developer | IT Support
+</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🎓 Information Systems student
+- 💻 Working with IT Support
+- 🌐 Studying Computer Networks
+- 🚀 Developing projects with Node.js
+- 🗄️ Experience with SQLite and APIs
+- 🔐 Interested in Cybersecurity
+
+---
+
+## 🛠️ Technologies
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,js,python,c,sqlite,git,github,linux,vscode" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true" />
+
+<img height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### ⭐ Customer Service Evaluation System
+
+System developed during my internship at **DAE Americana**.
+
+- Node.js
+- SQLite
+- REST API
+- Admin Dashboard
+- Excel report generation
+- User authentication
+
+---
+
+## 📫 Contact
+
+LinkedIn: SEU_LINKEDIN
