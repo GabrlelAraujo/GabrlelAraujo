@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">Olá! Eu sou Gabriel Araujo 👋</h1>
 
 <h3 align="center">
